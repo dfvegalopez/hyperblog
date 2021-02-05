@@ -2,4 +2,6 @@ archivo de prueba de git
 
 Master 1
 
+Master 2
+
 este es despues de un git checkout id -> commit quinto
